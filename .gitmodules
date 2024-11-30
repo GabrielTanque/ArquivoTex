@@ -1,0 +1,3 @@
+[submodule "components/TEX"]
+	path = components/TEX
+	url = https://github.com/eng-software/ComponentesESP32.git

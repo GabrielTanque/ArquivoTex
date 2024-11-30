@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/CMakeFiles/bootloader
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/CMakeFiles/bootloader.rule
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/CMakeFiles/bootloader-complete.rule
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Fatec/PI/HandsonIDF-A3_FREERTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
